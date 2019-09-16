@@ -3,7 +3,13 @@ Coloring activations of a CNN to see how are the different parts of the image ar
 It maybe seem like not a big difference in human sight, but behind the scences, it actually makes all the difference.
 
 Good model:
+
+
+
 ![](images/Good%20model.png)
 
 Bad model:
+
+
+
 ![](images/Bad%20model.png)
