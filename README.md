@@ -3,4 +3,4 @@ Coloring activations of a CNN to see how are the different parts of the image ar
 
 ![](images/Good%20model.png)
 
-![](images/Bood%20model.png)
+![](images/Bad%20model.png)
